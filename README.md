@@ -8,7 +8,7 @@ This repository contains a folder called **`pcap`**.
 ## Instructions
 
 1. **Download the `pcap` folder** to your local machine.  
-2. Inside the folder, you will find a **README file**.  
+2. Inside the folder, you will find a **README file**. called **PCAP_cheatsheet.md**  
 3. Open the README file in **Visual Studio Code**.  
 4. To properly view the README with enhanced Markdown support, install this VS Code extension:  
    [Defaults for VS Code Markdown](https://marketplace.visualstudio.com/items?itemName=rogwilco.defaults-vscode-markdown)
